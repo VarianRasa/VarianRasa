@@ -17,7 +17,7 @@
 <a id="about"></a>
 <p>
 <a href="https://www.linkedin.com/in/muhammad-varian-warrick/">
-  <img src="./assets/about.gif" width="1120" alt="About Varian: thoughtful design and working products. UPN Veteran Jakarta graduate; UI/UX internship at Jakarta Smart City. Figma, Flutter, and Dart. View LinkedIn profile." />
+  <img src="./assets/about.gif" width="1120" alt="About Varian: thoughtful design and working products. UPN Veteran Jakarta graduate. Figma, Flutter, and Dart. View LinkedIn profile." />
 </a>
 </p>
 
