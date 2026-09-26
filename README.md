@@ -1,47 +1,41 @@
 <div align="center">
 
-![Muhammad Varian Warrick — UI/UX designer and Flutter maker](./assets/profile-cover.svg)
+![Muhammad Varian Warrick — an animated minimal profile cover](./assets/profile-cover.gif)
 
-**UI/UX Designer** &nbsp;·&nbsp; **Information Systems Graduate** &nbsp;·&nbsp; **Builder at heart**
+**Designing clearer digital experiences, then building to learn.**
 
-[Explore my portfolio](https://github.com/VarianRasa/wryck_porto) &nbsp;·&nbsp; [See Var in action](https://var-lifeos.web.app/app/) &nbsp;·&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-varian-warrick/)
+[Portfolio](https://github.com/VarianRasa/wryck_porto) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/muhammad-varian-warrick/) &nbsp;·&nbsp; [Email](mailto:m.varianwarrick04@gmail.com)
 
 </div>
 
-### A little about me
+### Hello, I'm Varian.
 
-I'm **Muhammad Varian Warrick**. I design interfaces around real workflows and use code to make ideas tangible. I graduated in Information Systems from **UPN Veteran Jakarta** and completed a five-month **UI/UX design internship at Jakarta Smart City**.
+I'm a UI/UX designer and Information Systems graduate from **UPN Veteran Jakarta**. After a five-month UI/UX internship at **Jakarta Smart City**, I continue to explore the space between user needs, thoughtful interfaces, and working products.
 
-My favorite place to work is where research, interaction design, design systems, and implementation meet. Right now I'm looking for **UI/UX Designer opportunities** and building tools that make everyday work feel clearer.
-
-### How I work
-
-| 01 / Understand | 02 / Shape | 03 / Make real |
-| :--- | :--- | :--- |
-| Map the workflow, talk to users, and find the friction. | Explore flows, components, and visual details that serve the task. | Prototype, build with Flutter, test, and refine what feels off. |
+Currently open to **UI/UX Designer opportunities**.
 
 ### Selected work
 
-#### ↗ [Var — a calendar that opens into a canvas](https://github.com/VarianRasa/var-lifeos)
+**[Var ↗](https://var-lifeos.web.app/app/)**  
+A calendar-first, local-first productivity app built with Flutter. Each day opens into a canvas for tasks, plans, and connected ideas. [View the project](https://github.com/VarianRasa/var-lifeos).
 
-A local-first productivity app where each day can hold tasks, plans, notes, and connected ideas. Built with **Flutter / Dart**; available as a [web app](https://var-lifeos.web.app/app/) and public beta for Android and Windows.
+**[Warrieck Timer ↗](https://warrieck-timer.web.app/)**  
+A workout timer for AMRAP, For Time, Tabata, and EMOM sessions, with personal workout routines and session history.
 
-#### ↗ [My portfolio — a CV you can explore](https://github.com/VarianRasa/wryck_porto)
+**[Warrieck Studio ↗](https://warrieck-c7d03.web.app/)**  
+A photo and video studio for uploading, editing, publishing, and sharing media through public links.
 
-A responsive Flutter web portfolio with project detail pages, search and filters, light/dark themes, and an Indonesian/English switch.
+**[Portfolio ↗](https://github.com/VarianRasa/wryck_porto)**  
+A responsive Flutter portfolio with project stories, search, and light/dark themes.
 
-### My working palette
+### What I enjoy working on
 
-`User flows` &nbsp; `Wireframes` &nbsp; `Prototyping` &nbsp; `Design systems` &nbsp; `Usability evaluation`  
-`Figma` &nbsp; `Flutter` &nbsp; `Dart` &nbsp; `Web` &nbsp; `SQL`
+User flows · Prototyping · Design systems · Usability · Flutter
 
 ---
 
 <div align="center">
 
-**Have a design challenge or a product idea?**  
-[Email me](mailto:m.varianwarrick04@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/muhammad-varian-warrick/) &nbsp;·&nbsp; [GitHub](https://github.com/VarianRasa)
-
-<sub>Designed with intention. Built with curiosity. ✦</sub>
+Have something in mind? **[Let's talk ↗](mailto:m.varianwarrick04@gmail.com)**
 
 </div>
